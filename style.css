@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body{
+  background-color: #803c08;
+  font-family: "Roboto Mono", monospace;
+}
+
+header{
+  background-color: #a34905;
+  text-align: center;
+  color: grey;
+ font-size: 35px;
+}
+
+nav{
+  background-color: #a32705;
+ 
+}
+
+main{
+  background-color: #ba7411;
+  text-align: center;
+  padding: 30px;
+}
+
+footer{
+     text-align: center;
+}
+
+a{
+    background-color: #7d1e04;
+    padding: 5px;
+    color: black;
+    text-decoration: none;
+}
